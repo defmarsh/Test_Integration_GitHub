@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Data",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{EXCEPT([Account - Ratio].[Account - Ratio].MEMBERS , {[Account - Ratio].[Account - Ratio].[Rasio KPMM (CAR) *)],[Account - Ratio].[Account - Ratio].[Rasio Modal Inti terhadap ATMR **)],[Account - Ratio].[Account - Ratio].[Rasio Modal Inti terhadap Modal Pelengkap **)],[Account - Ratio].[Account - Ratio].[Rasio leverage modal inti (Tier 1 Leverage Ratio) **)],[Account - Ratio].[Account - Ratio].[Modal],[Account - Ratio].[Account - Ratio].[ATMR]})}"
+}

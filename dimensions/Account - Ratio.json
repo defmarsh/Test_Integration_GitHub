@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Account - Ratio",
+	"Hierarchies@Code.links":
+	[
+		"Account - Ratio.hierarchies/Account - Ratio.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')"
+	}
+}

@@ -1,0 +1,4425 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Account",
+	"Elements":
+	[
+		{
+			"Name":"-Realized Gain Spot",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Realized Gain Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forex Gain Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Net Forex Gain Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Net Operating Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Profit Before Tax",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Profit After Tax",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Realized Gain Forward",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Realized Gain Swap",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840125",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Realized Gain Exchange",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Unrealized Gain Spot",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Unrealized Gain Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Unrealized Gain Forward",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840215",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Unrealized Gain Swap",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840225",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Unrealized Loss Spot",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Unrealized Loss Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forex Loss Derivative Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Unrealized Loss Forward",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860215",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Unrealized Loss Swap",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860225",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Income - Import",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Fee & Commision Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840510",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840520",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840530",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840540",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840550",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840560",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840570",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840571",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840575",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840585",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840590",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Income - Export",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840620",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Attributable Fee",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Interest Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Net Interest Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840630",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840640",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840650",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840660",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840670",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840675",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840680",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840690",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Income - Remitance-",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840710",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840720",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840730",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840790",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Income - Deposit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840810",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840820",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Income - Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840935",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840936",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840937",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840990",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844109",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Unwinding Restructure Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"844112",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Loan Unwinding",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"844114",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844119",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844134",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844144",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844150",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844194",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844215",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844250",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"844255",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Securities Htm",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"845102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"845107",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"845202",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"845207",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"850100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"850900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Bi & Interbank Placement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"851000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"851900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"852300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"852500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"853000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"853010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"853200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"853210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"853500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"855102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"856100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"856300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"856400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"856500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Income - Reverse Repo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"856900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"856910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"857102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Paid - Interbank Transaction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Fee & Commision Paid",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Attributable Cost",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Interest Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860620",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860630",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860640",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Paid - Brokerage",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860650",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Paid - Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860660",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Fee & Commision Paid - Commitment",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860670",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860675",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Salaries",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Personnel Expenses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Personal And General & Administrative Expenses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860710",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860720",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860730",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860740",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860750",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860755",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860757",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860760",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Benefit In Kind",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860805",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Allowance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"860810",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860820",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860830",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860840",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860850",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860860",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860870",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860880",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860890",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860920",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"860930",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861030",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861040",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861060",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861070",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861080",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861090",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tax & Permission",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"General & Administrative Expenses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861240",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861250",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Office Supplies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861305",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861310",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861320",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861330",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861340",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Trip",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861410",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861420",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861430",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Transportation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861510",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861515",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861520",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861530",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861535",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861540",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Repair & Maintenance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861620",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861630",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861640",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861645",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861650",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rental Cost",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861705",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861710",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861715",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861720",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861725",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861730",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861740",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861745",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861750",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Research",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861790",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Profesional Fee",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861810",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861820",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861825",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861829",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Information",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861830",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861840",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Education",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"861850",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861854",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861855",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861856",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861857",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861858",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861859",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861860",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861870",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861880",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861890",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861905",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"861910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Membership",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862030",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862040",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862060",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Advertisement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Communication",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862240",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862250",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862265",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862270",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862275",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862280",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862290",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862310",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862320",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862330",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862335",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Entertainment",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862410",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862420",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Insurance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862510",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862520",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862525",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862530",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862540",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Utilities",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862620",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862630",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862635",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outsourcing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862640",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862650",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862660",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862670",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862675",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862680",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862685",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Depreciations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862710",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862720",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862730",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862740",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862750",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862760",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862765",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Depreciations RoU Assets",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862770",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Demand Deposit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Loss On Impairment Financial Assets",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Loss On Impairment",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Interbank Placement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862810",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Corporate Bond Ht",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862820",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss On Impairment - Foreclose Properties",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Loss On Impairment Others",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862835",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss On Impairment - Abandoned Property",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862845",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Individual - Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862850",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Collective - Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862851",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Restructurisation - Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862853",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Export Bill",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862860",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Receivable L/C Sight",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862864",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Loss On Impairment Accepted L/C",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862865",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862875",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss On Impairment - L/C",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Loss On Impairment Commitment Contingencies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862880",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss On Impairment - B/G",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862885",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss On Impairment - Unused Commitment",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862895",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pensiun Fund",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"864000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865030",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865040",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865045",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Goods&Doc Delivery",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"865100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865140",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"865150",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lease Liability Interest",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"868100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Third Party Fund",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"870000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"870010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"870200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Interest Expense - Vostro",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"870600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"870610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"871000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"871100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872400",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"872600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Interbank Borrowing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"873000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"873010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"873110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Interbank Taking",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"873600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"873610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"873700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"875010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"876100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Interest Expense - Securities Issued",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"877000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"877005",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"877100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"877105",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forex Gain Revaluation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forex Gain/Loss Revaluation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840140",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Other Operating Income-Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Operating Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"840580",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"840615",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841135",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841140",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841141",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841142",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841150",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841160",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Other Operating Income-Recovery Loan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"841165",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Other Operating Income-Participant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Operating Income Participant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"841170",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841180",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841190",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841215",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Non-Operating Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Non Operating Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Net Non Operating Income",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"841310",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841320",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841321",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841323",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841330",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"841340",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Income Suspense Account",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"849000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Interest Income - Inter Branch Fund Transfer Pricing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Net Interest - Fund Transfer Pricing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"859900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Loss",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Non Operating Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862905",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862910",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862940",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862950",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862955",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Expense Non Operating",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"868000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Expense Suspense Account",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"869000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Interest Expense - Inter Branch Fund Transfer Pricing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"879906",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Loss-Operational Risks",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"862900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"862966",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Current Tax Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Tax Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"869900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Deffered Tax (Income) / Expense",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"869905",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"-Realized Gain Spot",
+			"ComponentName":"840100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Realized Gain Derivative Transaction",
+			"ComponentName":"-Realized Gain Spot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Realized Gain Derivative Transaction",
+			"ComponentName":"-Realized Gain Forward",
+			"Weight":1
+		},
+		{
+			"ParentName":"Realized Gain Derivative Transaction",
+			"ComponentName":"-Realized Gain Swap",
+			"Weight":1
+		},
+		{
+			"ParentName":"Realized Gain Derivative Transaction",
+			"ComponentName":"-Realized Gain Exchange",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forex Gain Derivative Transaction",
+			"ComponentName":"Realized Gain Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forex Gain Derivative Transaction",
+			"ComponentName":"Unrealized Gain Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Forex Gain Derivative Transaction",
+			"ComponentName":"Forex Gain Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Forex Gain Derivative Transaction",
+			"ComponentName":"Forex Loss Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Net Forex Gain Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Fee & Commision Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Net Interest Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Personal And General & Administrative Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Loss On Impairment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Forex Gain/Loss Revaluation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Other Operating Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Other Operating Income Participant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Net Interest - Fund Transfer Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Operating Income",
+			"ComponentName":"Other Loss-Operational Risks",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profit Before Tax",
+			"ComponentName":"Net Operating Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profit Before Tax",
+			"ComponentName":"Net Non Operating Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profit After Tax",
+			"ComponentName":"Profit Before Tax",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profit After Tax",
+			"ComponentName":"Tax Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Realized Gain Forward",
+			"ComponentName":"840110",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Realized Gain Swap",
+			"ComponentName":"840120",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Realized Gain Swap",
+			"ComponentName":"840125",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Realized Gain Exchange",
+			"ComponentName":"840130",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Spot",
+			"ComponentName":"840200",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Spot",
+			"ComponentName":"840205",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Gain Derivative Transaction",
+			"ComponentName":"- Unrealized Gain Spot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Gain Derivative Transaction",
+			"ComponentName":"- Unrealized Gain Forward",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Gain Derivative Transaction",
+			"ComponentName":"- Unrealized Gain Swap",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Forward",
+			"ComponentName":"840210",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Forward",
+			"ComponentName":"840215",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Swap",
+			"ComponentName":"840220",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Unrealized Gain Swap",
+			"ComponentName":"840225",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Spot",
+			"ComponentName":"860200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Spot",
+			"ComponentName":"860205",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Loss Derivative Transaction",
+			"ComponentName":"-Unrealized Loss Spot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Loss Derivative Transaction",
+			"ComponentName":"-Unrealized Loss Forward",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unrealized Loss Derivative Transaction",
+			"ComponentName":"-Unrealized Loss Swap",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forex Loss Derivative Transaction",
+			"ComponentName":"Unrealized Loss Derivative Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Forward",
+			"ComponentName":"860210",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Forward",
+			"ComponentName":"860215",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Swap",
+			"ComponentName":"860220",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Unrealized Loss Swap",
+			"ComponentName":"860225",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840510",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840520",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840530",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840540",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840550",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840560",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840570",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840571",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840575",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840585",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Import",
+			"ComponentName":"840590",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"-Fee & Commision Income - Import",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"-Fee & Commision Income - Export",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"-Fee & Commision Income - Remitance-",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"-Fee & Commision Income - Deposit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"-Fee & Commision Income - Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Income",
+			"ComponentName":"Fee & Commision Paid",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840600",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840620",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840640",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840650",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840660",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840675",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840680",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Export",
+			"ComponentName":"840690",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"840630",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"840900",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"840935",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844109",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844110",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844119",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844130",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844150",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844194",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844205",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844215",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844250",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Attributable Fee",
+			"ComponentName":"844255",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Attributable Fee",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Unwinding Restructure Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Loan Unwinding",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Securities Htm",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Bi & Interbank Placement",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income",
+			"ComponentName":"-Interest Income - Reverse Repo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Interest Income",
+			"ComponentName":"Interest Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Interest Income",
+			"ComponentName":"Interest Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Other",
+			"ComponentName":"840670",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Remitance-",
+			"ComponentName":"840700",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Remitance-",
+			"ComponentName":"840710",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Remitance-",
+			"ComponentName":"840720",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Remitance-",
+			"ComponentName":"840730",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Remitance-",
+			"ComponentName":"840790",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Deposit",
+			"ComponentName":"840800",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Deposit",
+			"ComponentName":"840810",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Deposit",
+			"ComponentName":"840820",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Loan",
+			"ComponentName":"840910",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Loan",
+			"ComponentName":"840936",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Loan",
+			"ComponentName":"840937",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Income - Loan",
+			"ComponentName":"840990",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Unwinding Restructure Loan",
+			"ComponentName":"844112",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan Unwinding",
+			"ComponentName":"844114",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan Unwinding",
+			"ComponentName":"844134",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan Unwinding",
+			"ComponentName":"844144",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"845102",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"845107",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"845202",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"845207",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"855102",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"856100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"856400",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Securities Htm",
+			"ComponentName":"857102",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850300",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850400",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850700",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850800",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"850900",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"851100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"851300",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"851400",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"851800",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"851900",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"852300",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Loan",
+			"ComponentName":"852500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"851000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"851010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"851500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"853000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"853010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"853200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"853210",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"853500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"856300",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Bi & Interbank Placement",
+			"ComponentName":"856500",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Reverse Repo",
+			"ComponentName":"856900",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Income - Reverse Repo",
+			"ComponentName":"856910",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Interbank Transaction",
+			"ComponentName":"860600",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Interbank Transaction",
+			"ComponentName":"860630",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Interbank Transaction",
+			"ComponentName":"860640",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Paid",
+			"ComponentName":"-Fee & Commision Paid - Interbank Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Paid",
+			"ComponentName":"-Fee & Commision Paid - Brokerage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Paid",
+			"ComponentName":"-Fee & Commision Paid - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fee & Commision Paid",
+			"ComponentName":"-Fee & Commision Paid - Commitment",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Attributable Cost",
+			"ComponentName":"860610",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Attributable Cost",
+			"ComponentName":"860620",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Attributable Cost",
+			"ComponentName":"877005",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Attributable Cost",
+			"ComponentName":"877105",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Attributable Cost",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Third Party Fund",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"- Interest Expense - Vostro",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Interbank Borrowing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Interbank Taking",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense",
+			"ComponentName":"-Interest Expense - Securities Issued",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Brokerage",
+			"ComponentName":"860650",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Other",
+			"ComponentName":"860660",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Commitment",
+			"ComponentName":"860670",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Fee & Commision Paid - Commitment",
+			"ComponentName":"860675",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860700",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860710",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860720",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860730",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860740",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860750",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860755",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860757",
+			"Weight":1
+		},
+		{
+			"ParentName":"Salaries",
+			"ComponentName":"860760",
+			"Weight":1
+		},
+		{
+			"ParentName":"Personnel Expenses",
+			"ComponentName":"Salaries",
+			"Weight":1
+		},
+		{
+			"ParentName":"Personnel Expenses",
+			"ComponentName":"Benefit In Kind",
+			"Weight":1
+		},
+		{
+			"ParentName":"Personnel Expenses",
+			"ComponentName":"Allowance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Personal And General & Administrative Expenses",
+			"ComponentName":"Personnel Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Personal And General & Administrative Expenses",
+			"ComponentName":"General & Administrative Expenses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"860800",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"860805",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861024",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861025",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861026",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861030",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861040",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861060",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861070",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861080",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861090",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861110",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861120",
+			"Weight":1
+		},
+		{
+			"ParentName":"Benefit In Kind",
+			"ComponentName":"861130",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860810",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860820",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860830",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860840",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860850",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860860",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860870",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860880",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860890",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860910",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860920",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"860930",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"861000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allowance",
+			"ComponentName":"861010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861200",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861210",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861220",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861240",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax & Permission",
+			"ComponentName":"861250",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Tax & Permission",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Office Supplies",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Business Trip",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Transportation",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Repair & Maintenance",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Rental Cost",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Research",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Profesional Fee",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Information",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Education",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Membership",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Advertisement",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Communication",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Entertainment",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Insurance",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Utilities",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Other Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Outsourcing",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Depreciations",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Depreciations RoU Assets",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Pensiun Fund",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Goods&Doc Delivery",
+			"Weight":1
+		},
+		{
+			"ParentName":"General & Administrative Expenses",
+			"ComponentName":"Lease Liability Interest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861305",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861310",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861320",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861330",
+			"Weight":1
+		},
+		{
+			"ParentName":"Office Supplies",
+			"ComponentName":"861340",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Trip",
+			"ComponentName":"861400",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Trip",
+			"ComponentName":"861410",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Trip",
+			"ComponentName":"861420",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Trip",
+			"ComponentName":"861430",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861510",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861515",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861520",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861530",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861535",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transportation",
+			"ComponentName":"861540",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861610",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861620",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861630",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861640",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861645",
+			"Weight":1
+		},
+		{
+			"ParentName":"Repair & Maintenance",
+			"ComponentName":"861650",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861700",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861705",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861710",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861715",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861720",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861725",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861730",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861740",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861745",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rental Cost",
+			"ComponentName":"861750",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research",
+			"ComponentName":"861790",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profesional Fee",
+			"ComponentName":"861800",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profesional Fee",
+			"ComponentName":"861810",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profesional Fee",
+			"ComponentName":"861820",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profesional Fee",
+			"ComponentName":"861825",
+			"Weight":1
+		},
+		{
+			"ParentName":"Profesional Fee",
+			"ComponentName":"861829",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861830",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861840",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861870",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861880",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861890",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861905",
+			"Weight":1
+		},
+		{
+			"ParentName":"Information",
+			"ComponentName":"861910",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861850",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861854",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861855",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861856",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861857",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861858",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861859",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"861860",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862030",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862040",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862050",
+			"Weight":1
+		},
+		{
+			"ParentName":"Membership",
+			"ComponentName":"862060",
+			"Weight":1
+		},
+		{
+			"ParentName":"Advertisement",
+			"ComponentName":"862100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Advertisement",
+			"ComponentName":"862110",
+			"Weight":1
+		},
+		{
+			"ParentName":"Advertisement",
+			"ComponentName":"862120",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862200",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862210",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862220",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862240",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862250",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862265",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862270",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862275",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862280",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862290",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862310",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862320",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862330",
+			"Weight":1
+		},
+		{
+			"ParentName":"Communication",
+			"ComponentName":"862335",
+			"Weight":1
+		},
+		{
+			"ParentName":"Entertainment",
+			"ComponentName":"862400",
+			"Weight":1
+		},
+		{
+			"ParentName":"Entertainment",
+			"ComponentName":"862410",
+			"Weight":1
+		},
+		{
+			"ParentName":"Entertainment",
+			"ComponentName":"862420",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862510",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862520",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862525",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862530",
+			"Weight":1
+		},
+		{
+			"ParentName":"Insurance",
+			"ComponentName":"862540",
+			"Weight":1
+		},
+		{
+			"ParentName":"Utilities",
+			"ComponentName":"862600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Utilities",
+			"ComponentName":"862610",
+			"Weight":1
+		},
+		{
+			"ParentName":"Utilities",
+			"ComponentName":"862620",
+			"Weight":1
+		},
+		{
+			"ParentName":"Utilities",
+			"ComponentName":"862680",
+			"Weight":1
+		},
+		{
+			"ParentName":"Utilities",
+			"ComponentName":"862685",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862630",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862635",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862650",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862660",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862670",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Expense",
+			"ComponentName":"862675",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"862640",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865025",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865030",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865040",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865045",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outsourcing",
+			"ComponentName":"865050",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862700",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862710",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862720",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862730",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862740",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862750",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862760",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations",
+			"ComponentName":"862765",
+			"Weight":1
+		},
+		{
+			"ParentName":"Depreciations RoU Assets",
+			"ComponentName":"862770",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Demand Deposit",
+			"ComponentName":"862800",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Demand Deposit",
+			"ComponentName":"862875",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Demand Deposit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Interbank Placement",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Corporate Bond Ht",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Individual - Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Collective - Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Restructurisation - Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Export Bill",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Receivable L/C Sight",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Financial Assets",
+			"ComponentName":"-Loss On Impairment Accepted L/C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment",
+			"ComponentName":"Loss On Impairment Financial Assets",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment",
+			"ComponentName":"Loss On Impairment Others",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment",
+			"ComponentName":"Loss On Impairment Commitment Contingencies",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Interbank Placement",
+			"ComponentName":"862810",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Corporate Bond Ht",
+			"ComponentName":"862820",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment - Foreclose Properties",
+			"ComponentName":"862835",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Others",
+			"ComponentName":"Loss On Impairment - Foreclose Properties",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Others",
+			"ComponentName":"Loss On Impairment - Abandoned Property",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment - Abandoned Property",
+			"ComponentName":"862845",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Individual - Loan",
+			"ComponentName":"862850",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Collective - Loan",
+			"ComponentName":"862851",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Restructurisation - Loan",
+			"ComponentName":"862853",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Export Bill",
+			"ComponentName":"862860",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Receivable L/C Sight",
+			"ComponentName":"862864",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Loss On Impairment Accepted L/C",
+			"ComponentName":"862865",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment - L/C",
+			"ComponentName":"862880",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Commitment Contingencies",
+			"ComponentName":"Loss On Impairment - L/C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Commitment Contingencies",
+			"ComponentName":"Loss On Impairment - B/G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment Commitment Contingencies",
+			"ComponentName":"Loss On Impairment - Unused Commitment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment - B/G",
+			"ComponentName":"862885",
+			"Weight":1
+		},
+		{
+			"ParentName":"Loss On Impairment - Unused Commitment",
+			"ComponentName":"862895",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pensiun Fund",
+			"ComponentName":"864000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865110",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865120",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865130",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865140",
+			"Weight":1
+		},
+		{
+			"ParentName":"Goods&Doc Delivery",
+			"ComponentName":"865150",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lease Liability Interest",
+			"ComponentName":"868100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"870000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"870010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"870200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"871000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"871100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872110",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872400",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Third Party Fund",
+			"ComponentName":"872600",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Interest Expense - Vostro",
+			"ComponentName":"870600",
+			"Weight":1
+		},
+		{
+			"ParentName":"- Interest Expense - Vostro",
+			"ComponentName":"870610",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Borrowing",
+			"ComponentName":"873000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Borrowing",
+			"ComponentName":"873010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Borrowing",
+			"ComponentName":"873110",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Borrowing",
+			"ComponentName":"875010",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Taking",
+			"ComponentName":"873600",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Taking",
+			"ComponentName":"873610",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Interbank Taking",
+			"ComponentName":"873700",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Other",
+			"ComponentName":"876100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Securities Issued",
+			"ComponentName":"877000",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Interest Expense - Securities Issued",
+			"ComponentName":"877100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forex Gain Revaluation",
+			"ComponentName":"840140",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forex Gain/Loss Revaluation",
+			"ComponentName":"Forex Gain Revaluation",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"840580",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"840610",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"840615",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841100",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841110",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841120",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841130",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841135",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841140",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841141",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841142",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841150",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841160",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841180",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841190",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841200",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841210",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841215",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841220",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Other",
+			"ComponentName":"841230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Operating Income",
+			"ComponentName":"-Other Operating Income-Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Operating Income",
+			"ComponentName":"-Other Operating Income-Recovery Loan",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Recovery Loan",
+			"ComponentName":"841165",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Other Operating Income-Participant",
+			"ComponentName":"841170",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Operating Income Participant",
+			"ComponentName":"-Other Operating Income-Participant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841310",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841320",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841321",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841323",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841330",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non-Operating Income",
+			"ComponentName":"841340",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non Operating Income",
+			"ComponentName":"Other Non-Operating Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non Operating Income",
+			"ComponentName":"Income Suspense Account",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Non Operating Income",
+			"ComponentName":"Other Non Operating Income",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Non Operating Income",
+			"ComponentName":"Other Non Operating Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Income Suspense Account",
+			"ComponentName":"849000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Income - Inter Branch Fund Transfer Pricing",
+			"ComponentName":"859900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Interest - Fund Transfer Pricing",
+			"ComponentName":"Interest Income - Inter Branch Fund Transfer Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Interest - Fund Transfer Pricing",
+			"ComponentName":"Interest Expense - Inter Branch Fund Transfer Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss",
+			"ComponentName":"862905",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss",
+			"ComponentName":"862910",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss",
+			"ComponentName":"862940",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss",
+			"ComponentName":"862950",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss",
+			"ComponentName":"862955",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non Operating Expense",
+			"ComponentName":"Other Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non Operating Expense",
+			"ComponentName":"Expense Non Operating",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Non Operating Expense",
+			"ComponentName":"Expense Suspense Account",
+			"Weight":1
+		},
+		{
+			"ParentName":"Expense Non Operating",
+			"ComponentName":"868000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Expense Suspense Account",
+			"ComponentName":"869000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Interest Expense - Inter Branch Fund Transfer Pricing",
+			"ComponentName":"879906",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss-Operational Risks",
+			"ComponentName":"862900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Loss-Operational Risks",
+			"ComponentName":"862966",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Current Tax Expense",
+			"ComponentName":"869900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax Expense",
+			"ComponentName":"-Current Tax Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax Expense",
+			"ComponentName":"-Deffered Tax (Income) / Expense",
+			"Weight":1
+		},
+		{
+			"ParentName":"-Deffered Tax (Income) / Expense",
+			"ComponentName":"869905",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

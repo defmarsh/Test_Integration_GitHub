@@ -1,0 +1,71 @@
+{
+	"@type":"Subset",
+	"Name":"Rasio",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio KPMM (CAR) *)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio Modal Inti terhadap ATMR **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio Modal Inti terhadap Modal Pelengkap **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio leverage modal inti (Tier 1 Leverage Ratio) **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio beban overhead terhadap pendapatan bersih kegiatan utama **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('BOPO')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio aset produktif bermasalah dan aset non produktif bermasalah terhadap total aset produktif dan aset non produktif *)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio cadangan kerugian penurunan nilai (CKPN) aset keuangan terhadap aset produktif')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio CKPN dan penyisihan penghapusan aset (PPA) atas aset produktif TRA yang telah dibentuk terhadap PPA yang wajib dibentuk atas aset produktif **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio NPL Gross')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio NPL Netto')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Aset trading, tagihan spot dan derivatif, dan aset Fair Value Option terhadap total aset **)')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio deposan inti terhadap Total DPK')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('LDR')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio Total Kredit kepada UMKM terhadap total kredit')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio Dana Pendidikan dan latihan terhadap Pengeluaran Realisasi/Anggaran SDM')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio Aset Tetap yang tidak digunakan dalam operasional Bank terhadap modal')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Overhead Cost terhadap total Aset')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Overhead Cost terhadap pendapatan operasional')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Rasio CIR')"
+		},
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('KKR (Low Quality Credit)')"
+		}
+	]
+}

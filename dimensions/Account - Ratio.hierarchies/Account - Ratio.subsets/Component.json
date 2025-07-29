@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"Component",
+	"Alias":"MEMBER_NAME",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Account - Ratio')/Hierarchies('Account - Ratio')/Elements('Komponen')"
+		}
+	]
+}

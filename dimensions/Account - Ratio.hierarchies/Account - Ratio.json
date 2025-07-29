@@ -1,0 +1,1104 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Account - Ratio",
+	"Elements":
+	[
+		{
+			"Name":"Modal",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ATMR Risiko Kredit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ATMR Risiko Operasional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ATMR Risiko Pasar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ATMR",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Modal Inti",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Modal Pelengkap",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio KPMM (CAR) *)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio Modal Inti terhadap ATMR **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio Modal Inti terhadap Modal Pelengkap **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio leverage modal inti (Tier 1 Leverage Ratio) **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Aset (sandi 290)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Komponen",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Rasio beban overhead terhadap pendapatan bersih kegiatan utama **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Beban Overhead",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Penyusutan/ amortisasi aset tetap (Sandi 3340 + 3350 + 3360 + 3400)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Biaya Tenaga kerja (Sandi 3640 + 3650 + 3690)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pendidikan & pelatihan (Sandi 3700)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Premi Asuransi (Sandi 3110 + 3120 + 3130 + 3160)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kerugian karena risiko operasional (Sandi 3560 + 3561 + 3562 + 3563 + 3564 + 3565 + 3570)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Penelitian dan Pengembangan (Sandi 3750)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sewa (Sandi 3800)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Promosi (Sandi 3850)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pajak-pajak, tidak termasuk pajak penghasilan (Sandi 3900)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pemeliharaan dan perbaikan (Sandi 3950)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Barang dan Jasa (Sandi 4000 + 4010)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lainnya (Sandi 4050)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pendapatan bersih kegiatan utama",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"pendapatan bunga bersih",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"- pendapatan bunga (sandi 1750)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- beban  bunga (sandi 1760)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pendapatan fee bersih",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"- pendapatan komisi/provisi/fee (sandi 2190 + 2200 + 2260)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- beban komisi/provisi/fee yang berasal dari kegiatan kredit, transaksi derivatif, kredit kelolaan, dan lainnya (sandi 3020 + 3040 + 3100)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BOPO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Biaya Operasional (sandi 1300 + 2500)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pendapatan Operasional (sandi 1000 + 1800)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio aset produktif bermasalah dan aset non produktif bermasalah terhadap total aset produktif dan aset non produktif *)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset produktif bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset non produktif bermasalah",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"- Properti Terbengkalai bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Aset yang diambil alih bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Rekening Tunda bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Aset Antar Kantor bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset produktif bermasalah dan aset non produktif bermasalah",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"total aset produktif",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset non produktif",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"- Properti Terbengkalai (sandi 217)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Aset yang diambil alih (sandi 218)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Rekening Tunda (sandi 219)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"- Aset Antar Kantor (sandi 223 + 224)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"total aset produktif dan aset non produktif",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Rasio cadangan kerugian penurunan nilai (CKPN) aset keuangan terhadap aset produktif",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKPN aset keuangan (sandi 201 + 202 + 206)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aset produktif",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio CKPN dan penyisihan penghapusan aset (PPA) atas aset produktif TRA yang telah dibentuk terhadap PPA yang wajib dibentuk atas aset produktif **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKPN Aktiva Produktif (sandi 201 + 202 + 206)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CKPN Individual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKPN Kolektif",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PPA TRA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKPN Aktiva Produktif + PPA TRA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PPA yang wajib dibentuk",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio NPL Gross",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio NPL Netto",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kualitas Kurang Lancar",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kualitas Diragukan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kualitas Macet",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total kredit bermasalah",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Kredit (sandi 175)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kredit bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKPN kredit bermasalah",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kredit Bermasalah - CKPN",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Aset trading, tagihan spot dan derivatif, dan aset Fair Value Option terhadap total aset **)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aset trading",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Kredit diperdagangkan (sandi 168)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Penempatan pada Bank lain diperdagangkan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tagihan Akseptasi diperdagangkan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Surat berharga diperdagangkan (sandi 138)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"repo diperdagangkan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Surat berharga reserve repo diperdagangkan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset lainnya yang digolongkan dalam kelompok diperdagangkan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tagihan spot dan derivatif (sandi 135)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aset FVO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Kredit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Penempatan pada Bank lain",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tagihan akseptasi",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Surat berharga",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Surat berharga repo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Surat berharga reserve repo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"aset lainnya yang digolongkan dalam kelompok Fair Value Option",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aset Trading + Tagihan Spot dan Derivatif + Aset FVO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Rasio deposan inti terhadap Total DPK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"giro (sandi 300)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"tabungan (sandi 320)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"deposito (sandi 330)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DPK",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LDR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Kredit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total DPK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio Total Kredit kepada UMKM terhadap total kredit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio Dana Pendidikan dan latihan terhadap Pengeluaran Realisasi/Anggaran SDM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio Aset Tetap yang tidak digunakan dalam operasional Bank terhadap modal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Overhead Cost terhadap total Aset",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Overhead Cost terhadap pendapatan operasional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rasio CIR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KKR (Low Quality Credit)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Kredit kepada UMKM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Biaya pendidikan & latihan (sandi 3700)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BTK  (sandi 3640 + 3650 + 3690 + 3700)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aktiva tetap yg tidak digunakan dlm operasional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Overhead Cost ( sama dengan rasio 8 diatas )",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Overhead Cost ( sama dengan rasio 8 a diatas )",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total beban operasional selain bunga – Cadangan Kerugian Penurunan Nilai",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"(Pendapatan bunga bersih + Pendapatan operasional selain bunga)– (Pemulihan Cadangan Kerugian Penurunan Nilai (jika ada))",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Special mention",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SubStandard",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Doubtfull",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Low Quality Credit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Kredit KKR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deposan Inti",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Modal",
+			"ComponentName":"Modal Inti",
+			"Weight":1
+		},
+		{
+			"ParentName":"Modal",
+			"ComponentName":"Modal Pelengkap",
+			"Weight":1
+		},
+		{
+			"ParentName":"ATMR",
+			"ComponentName":"ATMR Risiko Kredit",
+			"Weight":1
+		},
+		{
+			"ParentName":"ATMR",
+			"ComponentName":"ATMR Risiko Operasional",
+			"Weight":1
+		},
+		{
+			"ParentName":"ATMR",
+			"ComponentName":"ATMR Risiko Pasar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio KPMM (CAR) *)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio Modal Inti terhadap ATMR **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio Modal Inti terhadap Modal Pelengkap **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio leverage modal inti (Tier 1 Leverage Ratio) **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio beban overhead terhadap pendapatan bersih kegiatan utama **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"BOPO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio aset produktif bermasalah dan aset non produktif bermasalah terhadap total aset produktif dan aset non produktif *)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio cadangan kerugian penurunan nilai (CKPN) aset keuangan terhadap aset produktif",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio CKPN dan penyisihan penghapusan aset (PPA) atas aset produktif TRA yang telah dibentuk terhadap PPA yang wajib dibentuk atas aset produktif **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio NPL Gross",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio NPL Netto",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Aset trading, tagihan spot dan derivatif, dan aset Fair Value Option terhadap total aset **)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio deposan inti terhadap Total DPK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"LDR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio Total Kredit kepada UMKM terhadap total kredit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio Dana Pendidikan dan latihan terhadap Pengeluaran Realisasi/Anggaran SDM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio Aset Tetap yang tidak digunakan dalam operasional Bank terhadap modal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Overhead Cost terhadap total Aset",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Overhead Cost terhadap pendapatan operasional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"Rasio CIR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rasio",
+			"ComponentName":"KKR (Low Quality Credit)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Modal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"ATMR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Aset (sandi 290)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Beban Overhead",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Pendapatan bersih kegiatan utama",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Biaya Operasional (sandi 1300 + 2500)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Pendapatan Operasional (sandi 1000 + 1800)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"aset produktif bermasalah dan aset non produktif bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"total aset produktif dan aset non produktif",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"CKPN aset keuangan (sandi 201 + 202 + 206)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Aset produktif",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"CKPN Aktiva Produktif + PPA TRA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"PPA yang wajib dibentuk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total kredit bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Kredit (sandi 175)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Kredit Bermasalah - CKPN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Aset Trading + Tagihan Spot dan Derivatif + Aset FVO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Deposan Inti",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"DPK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Kredit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total DPK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Kredit kepada UMKM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Biaya pendidikan & latihan (sandi 3700)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"BTK  (sandi 3640 + 3650 + 3690 + 3700)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Aktiva tetap yg tidak digunakan dlm operasional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Overhead Cost ( sama dengan rasio 8 diatas )",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Overhead Cost ( sama dengan rasio 8 a diatas )",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total beban operasional selain bunga – Cadangan Kerugian Penurunan Nilai",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"(Pendapatan bunga bersih + Pendapatan operasional selain bunga)– (Pemulihan Cadangan Kerugian Penurunan Nilai (jika ada))",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Low Quality Credit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Komponen",
+			"ComponentName":"Total Kredit KKR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Penyusutan/ amortisasi aset tetap (Sandi 3340 + 3350 + 3360 + 3400)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Biaya Tenaga kerja (Sandi 3640 + 3650 + 3690)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Pendidikan & pelatihan (Sandi 3700)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Premi Asuransi (Sandi 3110 + 3120 + 3130 + 3160)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Kerugian karena risiko operasional (Sandi 3560 + 3561 + 3562 + 3563 + 3564 + 3565 + 3570)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Penelitian dan Pengembangan (Sandi 3750)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Sewa (Sandi 3800)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Promosi (Sandi 3850)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Pajak-pajak, tidak termasuk pajak penghasilan (Sandi 3900)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Pemeliharaan dan perbaikan (Sandi 3950)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Barang dan Jasa (Sandi 4000 + 4010)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Beban Overhead",
+			"ComponentName":"Lainnya (Sandi 4050)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pendapatan bersih kegiatan utama",
+			"ComponentName":"pendapatan bunga bersih",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pendapatan bersih kegiatan utama",
+			"ComponentName":"Pendapatan fee bersih",
+			"Weight":1
+		},
+		{
+			"ParentName":"pendapatan bunga bersih",
+			"ComponentName":"- pendapatan bunga (sandi 1750)",
+			"Weight":1
+		},
+		{
+			"ParentName":"pendapatan bunga bersih",
+			"ComponentName":"- beban  bunga (sandi 1760)",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Pendapatan fee bersih",
+			"ComponentName":"- pendapatan komisi/provisi/fee (sandi 2190 + 2200 + 2260)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pendapatan fee bersih",
+			"ComponentName":"- beban komisi/provisi/fee yang berasal dari kegiatan kredit, transaksi derivatif, kredit kelolaan, dan lainnya (sandi 3020 + 3040 + 3100)",
+			"Weight":-1
+		},
+		{
+			"ParentName":"aset non produktif bermasalah",
+			"ComponentName":"- Properti Terbengkalai bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif bermasalah",
+			"ComponentName":"- Aset yang diambil alih bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif bermasalah",
+			"ComponentName":"- Rekening Tunda bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif bermasalah",
+			"ComponentName":"- Aset Antar Kantor bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset produktif bermasalah dan aset non produktif bermasalah",
+			"ComponentName":"aset produktif bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset produktif bermasalah dan aset non produktif bermasalah",
+			"ComponentName":"aset non produktif bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif",
+			"ComponentName":"- Properti Terbengkalai (sandi 217)",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif",
+			"ComponentName":"- Aset yang diambil alih (sandi 218)",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif",
+			"ComponentName":"- Rekening Tunda (sandi 219)",
+			"Weight":1
+		},
+		{
+			"ParentName":"aset non produktif",
+			"ComponentName":"- Aset Antar Kantor (sandi 223 + 224)",
+			"Weight":1
+		},
+		{
+			"ParentName":"total aset produktif dan aset non produktif",
+			"ComponentName":"total aset produktif",
+			"Weight":1
+		},
+		{
+			"ParentName":"total aset produktif dan aset non produktif",
+			"ComponentName":"aset non produktif",
+			"Weight":1
+		},
+		{
+			"ParentName":"CKPN Aktiva Produktif (sandi 201 + 202 + 206)",
+			"ComponentName":"CKPN Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"CKPN Aktiva Produktif (sandi 201 + 202 + 206)",
+			"ComponentName":"CKPN Kolektif",
+			"Weight":1
+		},
+		{
+			"ParentName":"CKPN Aktiva Produktif + PPA TRA",
+			"ComponentName":"CKPN Aktiva Produktif (sandi 201 + 202 + 206)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CKPN Aktiva Produktif + PPA TRA",
+			"ComponentName":"PPA TRA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total kredit bermasalah",
+			"ComponentName":"Kualitas Kurang Lancar",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total kredit bermasalah",
+			"ComponentName":"Kualitas Diragukan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total kredit bermasalah",
+			"ComponentName":"Kualitas Macet",
+			"Weight":1
+		},
+		{
+			"ParentName":"Kredit Bermasalah - CKPN",
+			"ComponentName":"Kredit bermasalah",
+			"Weight":1
+		},
+		{
+			"ParentName":"Kredit Bermasalah - CKPN",
+			"ComponentName":"CKPN kredit bermasalah",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"Kredit diperdagangkan (sandi 168)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"Penempatan pada Bank lain diperdagangkan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"Tagihan Akseptasi diperdagangkan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"Surat berharga diperdagangkan (sandi 138)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"repo diperdagangkan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"Surat berharga reserve repo diperdagangkan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset trading",
+			"ComponentName":"aset lainnya yang digolongkan dalam kelompok diperdagangkan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Kredit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Penempatan pada Bank lain",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Tagihan akseptasi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Surat berharga",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Surat berharga repo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"Surat berharga reserve repo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset FVO",
+			"ComponentName":"aset lainnya yang digolongkan dalam kelompok Fair Value Option",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset Trading + Tagihan Spot dan Derivatif + Aset FVO",
+			"ComponentName":"Aset trading",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset Trading + Tagihan Spot dan Derivatif + Aset FVO",
+			"ComponentName":"Tagihan spot dan derivatif (sandi 135)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aset Trading + Tagihan Spot dan Derivatif + Aset FVO",
+			"ComponentName":"Aset FVO",
+			"Weight":1
+		},
+		{
+			"ParentName":"DPK",
+			"ComponentName":"giro (sandi 300)",
+			"Weight":1
+		},
+		{
+			"ParentName":"DPK",
+			"ComponentName":"tabungan (sandi 320)",
+			"Weight":1
+		},
+		{
+			"ParentName":"DPK",
+			"ComponentName":"deposito (sandi 330)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Low Quality Credit",
+			"ComponentName":"Special mention",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Low Quality Credit",
+			"ComponentName":"SubStandard",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Low Quality Credit",
+			"ComponentName":"Doubtfull",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Low Quality Credit",
+			"ComponentName":"Loss",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Account - Ratio.subsets/Component.json",
+		"Account - Ratio.subsets/Data.json",
+		"Account - Ratio.subsets/Rasio.json"
+	]
+}
